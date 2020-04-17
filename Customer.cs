@@ -6,6 +6,6 @@ namespace GitVoorbeeld
 {
     public class Customer
     {
-        public int zes { get; set; }
+        public int zeven { get; set; }
     }
 }
