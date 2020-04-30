@@ -6,7 +6,7 @@ namespace GitVoorbeeld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! zes");
+            Console.WriteLine("Hello World! acht");
             Console.ReadKey(true);
         }
     }
