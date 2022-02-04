@@ -1,0 +1,105 @@
+{
+  "kvkNumber": "string",
+  "businessRegisterEntityId": "string",
+  "registrationAuthorityCode": "string",
+  "contact": {
+    "emailAddress": "user@example.com",
+    "gender": "MALE",
+    "firstName": "string",
+    "lastName": "string",
+    "department": "string",
+    "function": "string",
+    "telephoneNumber": "string"
+  },
+  "directParent": {
+    "lei": "string",
+    "kvkNumber": "string",
+    "parentProperties": {
+      "legalName": "string",
+      "legalAddress": {
+        "line1": "string",
+        "line2": "string",
+        "line3": "string",
+        "line4": "string",
+        "city": "string",
+        "country": "string",
+        "postalCode": "string"
+      },
+      "headquartersAddress": {
+        "line1": "string",
+        "line2": "string",
+        "line3": "string",
+        "line4": "string",
+        "city": "string",
+        "country": "string",
+        "postalCode": "string"
+      }
+    },
+    "exceptionReason": "NATURAL_PERSONS",
+    "accountingStandard": "US_GAAP",
+    "accountingPeriod": {
+      "startDate": "2020-05-07",
+      "endDate": "2020-05-07"
+    },
+    "relationshipPeriod": {
+      "startDate": "2020-05-07",
+      "endDate": "2020-05-07"
+    },
+    "validationDocuments": [
+      {
+        "documentReference": "string",
+        "type": "ACCOUNTS_FILING",
+        "period": {
+          "startDate": "2020-05-07",
+          "endDate": "2020-05-07"
+        }
+      }
+    ]
+  },
+  "ultimateParent": {
+    "lei": "string",
+    "kvkNumber": "string",
+    "parentProperties": {
+      "legalName": "string",
+      "legalAddress": {
+        "line1": "string",
+        "line2": "string",
+        "line3": "string",
+        "line4": "string",
+        "city": "string",
+        "country": "string",
+        "postalCode": "string"
+      },
+      "headquartersAddress": {
+        "line1": "string",
+        "line2": "string",
+        "line3": "string",
+        "line4": "string",
+        "city": "string",
+        "country": "string",
+        "postalCode": "string"
+      }
+    },
+    "exceptionReason": "NATURAL_PERSONS",
+    "accountingStandard": "US_GAAP",
+    "accountingPeriod": {
+      "startDate": "2020-05-07",
+      "endDate": "2020-05-07"
+    },
+    "relationshipPeriod": {
+      "startDate": "2020-05-07",
+      "endDate": "2020-05-07"
+    },
+    "validationDocuments": [
+      {
+        "documentReference": "string",
+        "type": "ACCOUNTS_FILING",
+        "period": {
+          "startDate": "2020-05-07",
+          "endDate": "2020-05-07"
+        }
+      }
+    ]
+  }
+
+}
